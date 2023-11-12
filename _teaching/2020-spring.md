@@ -1,0 +1,17 @@
+---
+title: "BLG-513E Image Processing"
+collection: teaching
+type: "Graduate course"
+permalink: /teaching/blg305e
+venue: "Istanbul Technical University"
+date: 2014-01-01
+location: "Istanbul, Turkey"
+---
+
+BLG-305E Analysis of Algorithms I
+BLG-506E Computer Vision with Deep Learning grad course), 
+ISE-309 Multimedia systems 
+BLG-252E (Object Oriented Programming), 
+BLG-374E (Technical Communication for Computer Engineers).
+PPDC-23 Programming Paradigms and Compiler Construction
+ProgNat-23 Programming for Life Sciences Short Course
