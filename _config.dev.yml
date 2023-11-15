@@ -11,3 +11,40 @@ comments:
 
 sass:
   style: expanded
+
+author:
+  name             : "Alperen Kantarcı"
+  avatar           : "profile.png"
+  bio              : "PhD Student in Computer Science. Working on computer vision and AI"
+  location         : #"Frankfurt am Main, Germany"
+  employer         : "Goethe University Frankfurt, Germany"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=0ePADzkAAAAJ&hl=en"
+  email            : "kantarci@em.uni-frankfurt.de"
+  researchgate     : "https://www.researchgate.net/profile/Alperen-Kantarci"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "alpkant"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         : "https://www.linkedin.com/in/alperenkantarci/"
+  orcid            : "http://orcid.org/0000-0002-4080-5538"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : "4779042/alperen-kantarci"
+  steam            :
+  tumblr           :
+  twitter          : "alperenkantarci"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
